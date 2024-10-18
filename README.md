@@ -14,15 +14,15 @@ I'm Akge Ninov Royana, a student passionate about coding, open-source projects, 
       </a>
     </td>
     <td>
-      <a href="https://github.com/yourusername/repo2">
+      <a href="https://github.com/yourusername/Literature-Review">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=Literature-Review&theme=default" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/yourusername/repo1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=default" />
+      <a href="https://github.com/yourusername/Penelitian-Riset">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=Penelitian-Riset&theme=default" />
       </a>
     </td>
     <td>
