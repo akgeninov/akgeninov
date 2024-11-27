@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome to My GitHub Profile!
 
-I'm Akge Ninov Royana, a student passionate about coding, open-source projects, and continuous learning.
+<!-- I'm Akge Ninov Royana, a student passionate about coding, open-source projects, and continuous learning. -->
 
 <!-- ## 📂 Repository Categories -->
 
