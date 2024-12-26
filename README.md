@@ -26,7 +26,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/akgeninov/Metode Penelitian">
+      <a href="https://github.com/akgeninov/Metode-Penelitian">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=Metode-Penelitian&theme=default" />
       </a>
     </td>
