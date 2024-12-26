@@ -38,8 +38,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/akgeninov/metrik-pengujian">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=metrik-pengujian&theme=default" />
+      <a href="https://github.com/akgeninov/hasil-riset">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=hasil-riset&theme=default" />
       </a>
     </td>
   </tr>
