@@ -26,8 +26,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/yourusername/repo2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=default" />
+      <a href="https://github.com/akgeninov/Metode Penelitian">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=Metode-Penelitian&theme=default" />
       </a>
     </td>
   </tr>
