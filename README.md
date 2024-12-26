@@ -26,8 +26,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/akgeninov/Literature-Review">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=Literature-Review&theme=default" />
+      <a href="https://github.com/akgeninov/metrik-pengujian">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=metrik-pengujian&theme=default" />
       </a>
     </td>
   </tr>
