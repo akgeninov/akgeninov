@@ -21,25 +21,13 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/akgeninov/Metode-Penelitian">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=Metode-Penelitian&theme=default" />
+      <a href="https://github.com/akgeninov/metpen">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=metpen&theme=default" />
       </a>
     </td>
     <td>
       <a href="https://github.com/akgeninov/Literature-Review">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=Literature-Review&theme=default" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/akgeninov/Penelitian-Riset">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=Metode-Penelitian&theme=default" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/akgeninov/Penelitian-Riset">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=Penelitian-Riset&theme=default" />
       </a>
     </td>
   </tr>
