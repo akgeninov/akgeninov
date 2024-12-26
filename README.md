@@ -33,8 +33,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/akgeninov/metode-penelitian">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=metode-penelitian&theme=default" />
+      <a href="https://github.com/akgeninov/research-gap">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=research-gap&theme=default" />
       </a>
     </td>
     <td>
