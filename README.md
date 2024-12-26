@@ -38,13 +38,10 @@
       </a>
     </td>
     <td>
-  <figure>
-    <a href="https://github.com/akgeninov/hasil-riset">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=hasil-riset&theme=default" />
-    </a>
-    <figcaption>Deskripsi Repo: Hasil Riset oleh Akgeninov</figcaption>
-  </figure>
-</td>
+        <a href="https://github.com/akgeninov/hasil-riset">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=hasil-riset&theme=default" />
+        </a>
+    </td>
   </tr>
 </table>
 
