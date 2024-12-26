@@ -39,7 +39,7 @@
     </td>
     <td>
         <a href="https://github.com/akgeninov/hasil-riset">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=hasil-riset&theme=default" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akgeninov&repo=hasil-riset&theme=default&cache_seconds=60" />
         </a>
     </td>
   </tr>
