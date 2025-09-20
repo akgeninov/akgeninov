@@ -55,7 +55,7 @@
           </a>
         </p>
         <p>Platform about women’s lifestyle (health & fashion). Frontend built without framework, integrated with backend API.</p>
-        <p><b>Tech:</b> HTML · CSS · JavaScript</p>
+        <p><b>Tech:</b> HTML · CSS · JavaScript · Node.js</p>
       </td>
       <td width="50%">
         <h3 align="center">Hotel Booking Analysis</h3>
@@ -77,7 +77,7 @@
           </a>
         </p>
         <p>Web platform with articles, business classes, and job vacancies. I developed the job vacancies API (CRUD) and integrated it into client/admin side.</p>
-        <p><b>Tech:</b> React.js · Node.js · PHP · MySQL</p>
+        <p><b>Tech:</b> HTML · CSS · Javascript · PHP · MySQL</p>
       </td>
       <td width="50%">
         <h3 align="center">Peta Kependudukan DKI Jakarta</h3>
