@@ -112,4 +112,4 @@
 
 ## 📫 Let's Connect
 - LinkedIn: [Akge Ninov Royana](https://www.linkedin.com/in/akge-ninov)  
-- Email: akgeninovryn@example.com  
+- Email: akgeninovryn@gmail.com  
